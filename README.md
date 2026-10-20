@@ -1,18 +1,33 @@
-# Hi 👋, I'm Lucas
+# Hi, I’m Lucas
 
-- I'm currently working on **Above Atlas**
+I’m a developer interested in web development, automation, and building useful projects.
 
-<h3 align="left">Connect with me:</h3>
+* Currently working on Above Atlas, a game price guide and wiki.
+* Interested in JavaScript, Python, databases, Linux, and backend development (slowly learning).
+* Always learning and working on new projects.
+
+# Connect with me
+
+# Languages & Tools
+
 <p align="left">
-<a href="https://github.com/Lucas7861089" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Lucas7861089" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,bash,linux,git,mongodb,mysql" alt="JavaScript, Node.js, Python, Bash, Linux, Git, MongoDB and MySQL" />
+  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="Chart.js" width="48" height="48" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+GitHub Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas7861089&show_icons=true&locale=en&layout=compact" alt="Lucas7861089" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas7861089&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Lucas's GitHub statistics" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas7861089&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lucas7861089&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas7861089&show_icons=true&locale=en" alt="Lucas7861089" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas7861089&" alt="Lucas7861089" /></p>
-
+<p align="center">
+  <i>Thanks for reading!</i>
+</p>
