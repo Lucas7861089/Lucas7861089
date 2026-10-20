@@ -12,24 +12,35 @@ Connect with me
 
 <p align="left">
   <a href="https://github.com/Lucas7861089">
-    <img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub" />
   </a>
-  &nbsp;
+  <a href="https://github.com/Lucas7861089">GitHub — @Lucas7861089</a>
+  <br />
   <a href="https://x.com/Lucas7861089">
-    <img src="https://cdn.simpleicons.org/x/ffffff" width="36" height="36" alt="X" />
+    <img src="https://cdn.simpleicons.org/x/ffffff" width="32" height="32" alt="X" />
   </a>
-  &nbsp;
+  <a href="https://x.com/Lucas7861089">X — @Lucas7861089</a>
+  <br />
   <a href="mailto:lucas7861089@proton.me">
-    <img src="https://cdn.simpleicons.org/protonmail/6D4AFF" width="36" height="36" alt="Email" />
+    <img src="https://cdn.simpleicons.org/protonmail/6D4AFF" width="32" height="32" alt="Email" />
   </a>
+  <a href="mailto:lucas7861089@proton.me">Email — lucas7861089@proton.me</a>
 </p>
+
+
 
 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,bash,linux,git,mongodb,mysql&perline=8" height="40" alt="JavaScript, Node.js, Python, Bash, Linux, Git, MongoDB and MySQL" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="40" height="40" alt="Chart.js" />
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash" /></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" /></a>
+  <a href="https://www.chartjs.org/"><img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="40" height="40" alt="Chart.js" /></a>
 </p>
 
 
