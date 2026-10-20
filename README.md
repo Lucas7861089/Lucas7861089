@@ -1,7 +1,5 @@
 # Hi 👋, I'm Lucas
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lucas7861089" alt="Lucas7861089" /></a> </p>
-
 - I'm currently working on **Above Atlas**
 
 <h3 align="left">Connect with me:</h3>
