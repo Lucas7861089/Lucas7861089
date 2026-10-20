@@ -1,4 +1,4 @@
-# Hi, I’m Lucas
+Hi, I’m Lucas
 
 I’m a developer interested in web development, automation, and building useful projects.
 
@@ -6,40 +6,44 @@ I’m a developer interested in web development, automation, and building useful
 * Interested in JavaScript, Python, databases, Linux, and backend development (slowly learning).
 * Always learning and working on new projects.
 
-# Connect with me
 
-<h3 align="left">Connect with me</h3>
+
+Connect with me
 
 <p align="left">
   <a href="https://github.com/Lucas7861089">
-    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://x.com/Lucas7861089">
-    <img src="https://cdn.simpleicons.org/x/ffffff" width="40" alt="X"/>
+    <img src="https://cdn.simpleicons.org/x/ffffff" width="36" height="36" alt="X" />
   </a>
+  &nbsp;
   <a href="mailto:lucas7861089@proton.me">
-    <img src="https://cdn.simpleicons.org/protonmail/6D4AFF" width="40" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/protonmail/6D4AFF" width="36" height="36" alt="Email" />
   </a>
 </p>
 
-# Languages & Tools
+Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,bash,linux,git,mongodb,mysql" alt="JavaScript, Node.js, Python, Bash, Linux, Git, MongoDB and MySQL" />
-  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="Chart.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,bash,linux,git,mongodb,mysql&perline=8" height="40" alt="JavaScript, Node.js, Python, Bash, Linux, Git, MongoDB and MySQL" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="40" height="40" alt="Chart.js" />
 </p>
+
+
 
 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas7861089&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Lucas's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas7861089&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas7861089&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Most used languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas7861089&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+  <img src="https://streak-stats.demolab.com?user=Lucas7861089&theme=github-dark-blue&hide_border=true" width="495" alt="GitHub contribution streak" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lucas7861089&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-</p>
+
 
 
 <p align="center">
